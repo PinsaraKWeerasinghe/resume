@@ -247,6 +247,14 @@ header{
 .pe-dj {
     font-size: 5em;
 }
+.techtags {
+	font-size: 20px;
+	display: inline; 
+	background-color:#DCDCDC;
+	border-radius: 15px;
+	padding: 3px 15px 3px 15px;
+	text-align: center;
+}
 
 
 /* ///////////////////////////////////////////////////////////////////// 
